@@ -1,0 +1,15 @@
+{
+    "name": "Teste Cy Camila",
+    "email": "teste_camila",
+    "password": "senha123",
+    "firstName": "Nome",
+    "lastName": "Sobrenome",
+    "company": "Empresa",
+    "address1": "Endereço 1",
+    "address2": "Endereço 2",
+    "country": "India",
+    "state": "Estado",
+    "city": "Cidade",
+    "zipcode": "12345",
+    "mobile": "27999999999"
+}
